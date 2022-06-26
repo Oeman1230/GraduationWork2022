@@ -1,0 +1,24 @@
+﻿  AIRecursionData.cpp
+E:\сортировка\IpsGame\AIRecursionData.cpp(192,68): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  ArtificialIntelligence.cpp
+E:\сортировка\IpsGame\ArtificialIntelligence.cpp(196,67): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  BattleForLifeGameComponents.cpp
+E:\сортировка\IpsGame\BattleForLifeGameComponents.cpp(275,32): warning C4101: invArg: неиспользованная локальная переменная
+  GameBaseComponents.cpp
+  GameCore.cpp
+  GameSimulation.cpp
+  GraphicCore.cpp
+  GrCoreGameSimDataInterpretator.cpp
+  IpsGame.cpp
+  Menu.cpp
+E:\сортировка\IpsGame\Menu.cpp(191,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\сортировка\IpsGame\Menu.cpp(292,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\сортировка\IpsGame\Menu.cpp(443,74): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  PersonIntelligence.cpp
+  Player.cpp
+  Создание кода...
+  IpsGame.vcxproj -> E:\сортировка\IpsGame\x64\Debug\IpsGame.exe
